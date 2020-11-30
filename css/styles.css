@@ -1,0 +1,21 @@
+body {
+    color: indigo;
+    font-size: 20px;
+    background-color: lawngreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container {
+    width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 25% 0 25%;
+    padding: 0.1em;
+
+    background-color: rgb(140, 243, 247);
+}
+.cabecera {
+    text-align: center;
+    width: 100%;
+    color: red;
+    background-color: royalblue;
+}
